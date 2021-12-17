@@ -1,7 +1,7 @@
 # Railway-Management-System
 
 
-This is a Railway Management System Project Based on Java Swing. The project aims to help the ticket sellers of any railaway station to make reservation with passenger information. 
+This is a Railway Management System Project Based on Java Swing. The project aims to help the ticket sellers of any railway station to make reservation with passenger information. 
 The admin can also add, update or delete any Train information from the database.
 
 
